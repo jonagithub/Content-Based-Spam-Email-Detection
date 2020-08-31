@@ -13,3 +13,6 @@ Here we have connected our code (which is shown as Email-Spam.ipynb) with GUI us
 Output of detecting ham and spam are shown through captured screenshots as GUI-Output1.png, GUI-Output2.png, GUI-Output3.png.
 
 Note: Email-Spam.ipynb which is present outside the folder Spam Email Detection is the updated code where we have connected GUI and the Folder Spam Email Detection also consists of Email-Spam.ipynb which is the previous code in which we have not connected GUI  
+
+Update: 31st August, 2020
+Here we have cleaned our code in Final_MNB/MNB and implemented evaluation measures in spam filter
